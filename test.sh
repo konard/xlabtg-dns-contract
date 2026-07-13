@@ -16,4 +16,6 @@ node test/item-get.js &&
 node test/item-get-static-data.js &&
 node test/item-loss.js &&
 node test/item-transfer.js &&
+node test/security-item-access-control.js &&
+node test/security-item-governance.js &&
 echo "OK"
